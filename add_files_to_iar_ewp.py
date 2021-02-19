@@ -134,8 +134,9 @@ if __name__ == '__main__':
     PROJECT_PATH_ID = "Project_dir"
     FIND_ALL_FILES = "*.*"
 
-    parser = argparse.ArgumentParser(description="Make a list of files with "
-                                                 "relative path")
+    parser = argparse.ArgumentParser(description="Import the files into the "
+                                                 "IAR project file following "
+                                                 "the directory tree.")
 
     parser.add_argument(PATH_ID,
                         metavar='<path>',
