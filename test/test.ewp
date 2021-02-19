@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<project>
+  <group>
+    <name>src</name>
+    <group>
+      <name>model</name>
+      <group>
+        <name>utils</name>
+        <file>
+          <name>$PROJ_DIR$\src\model\utils\getter.c</name>
+        </file>
+      </group>
+    </group>
+    <group>
+      <name>view</name>
+      <group>
+        <name>utils</name>
+        <file>
+          <name>$PROJ_DIR$\src\view\utils\menu.c</name>
+        </file>
+      </group>
+    </group>
+  </group>
+</project>

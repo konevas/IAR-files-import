@@ -1,0 +1,18 @@
+./test/src
+['model', 'view']
+[]
+./test/src\model
+['utils']
+[]
+./test/src\model\utils
+[]
+['getter.c']
+./test/src\view
+['utils']
+[]
+./test/src\view\utils
+['menu.c']
+[]
+./test/src\view\utils\menu.c
+[]
+[]
